@@ -3,19 +3,19 @@
     {
 "id":"1",
 "name":"Event A",
-"decription":"Desc1",
+"description":"Desc1",
 "location":"Chandigarh"
     },
     {
         "id":"2",
         "name":"Event B",
-        "decription":"Desc2",
+        "description":"Desc2",
         "location":"Haryana"
             },
             {
                 "id":"3",
                 "name":"Event C",
-                "decription":"Desc3",
+                "description":"Desc3",
                 "location":"Shimla"
                     }
 ]
